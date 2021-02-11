@@ -5,5 +5,6 @@ Java program that visualizes the famous math and logic puzzle, Tower of Hanoi
 Project 3 from CS 2114 at Virginia Tech 
 
 
-cmd call to run 
+cmd call to run:
+
 java -jar towershanoi.jar 6
